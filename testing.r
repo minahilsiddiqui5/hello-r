@@ -6,3 +6,5 @@ version = "Rstudio"
 
 print(name)
 print("these lines has been written n RStudio")
+
+print("10 lines")
